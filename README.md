@@ -1,2 +1,2 @@
-# public-domain
+# public domain
 public domain
